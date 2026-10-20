@@ -22,9 +22,10 @@
   "terminal.integrated.fontSize": 18,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
+  "clang-format.executable": "/usr/bin/clang-format",
   "C_Cpp.codeAnalysis.clangTidy.enabled": true,
   "workbench.statusBar.visible": true,
-  "C_Cpp.clang_format_fallbackStyle": "none",
+  "C_Cpp.clang_format_fallbackStyle": "none",  
   "editor.wordWrap": "on",
   "files.associations": {
     "array": "cpp",
