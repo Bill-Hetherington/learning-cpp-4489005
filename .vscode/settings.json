@@ -90,5 +90,6 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "stack": "cpp"
-  }
+},
+"editor.defaultFormatter": "xaver.clang-format"
 }
